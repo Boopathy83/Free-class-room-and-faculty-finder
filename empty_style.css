@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+nav {
+    /* color: white; */
+    background-color: rgb(27, 119, 239);
+}
+
+.VIT {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+}
+
+.VelloreCampus {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+
+nav img {
+    /* display: flex; */
+    width: 2.2rem;
+    height: 2.2rem;
+}
+
+nav span {
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+
+.container-fluid {
+    display: flex;
+}
+
